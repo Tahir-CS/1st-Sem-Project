@@ -1,0 +1,1 @@
+Programming Fundamentals#2025#1st#1#100#10#60#2#What is a variable?#A storage location#A function#A loop#A condition#1#Which operator is used for assignment?#=#==#!=#+#1#
