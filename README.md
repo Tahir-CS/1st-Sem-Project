@@ -64,13 +64,7 @@ A comprehensive C++ console-based Quiz Management System developed as a 1st Seme
   - Update personal information
   - View dashboard with academic details
 
-## 🖥️ System Requirements
 
-- **Operating System**: Windows (designed for Windows environment)
-- **Compiler**: Microsoft Visual C++ or any C++17 compatible compiler
-- **IDE**: Visual Studio (recommended) or any C++ IDE
-- **Memory**: Minimum 512 MB RAM
-- **Storage**: At least 50 MB free space
 
 ## 🚀 Installation
 
@@ -90,6 +84,12 @@ A comprehensive C++ console-based Quiz Management System developed as a 1st Seme
 1. Run the compiled executable
 2. The system will display the logo and load existing data
 3. Enter your login credentials when prompted
+**Note**
+Only admin credentials are hardcoded in code  
+The credentials of teacher and students are generated automatically in file after you register their details
+### Administrator Credentials:
+- **Email**: `aduet@edu.pk`
+- **Password**: `Admin123`
 
 ### Navigation
 - Follow the numbered menu options
